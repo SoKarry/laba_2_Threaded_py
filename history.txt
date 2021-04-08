@@ -1,0 +1,6 @@
+vanya: dsa
+da: asd
+da: das
+da: dsa
+oleg: privet
+ivan: oo i tebe privet
